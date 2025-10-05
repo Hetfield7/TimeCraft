@@ -4,4 +4,4 @@ Actionable strategies and lightweight frameworks to make every workday more focu
 1- Introduction
 A short overview of what TimeCraft is, why it exists, and how to use it as a personal productivity companion.
 
-3° 
+2° Core Principles
