@@ -12,4 +12,4 @@ A short overview of what TimeCraft is, why it exists, and how to use it as a per
 
 5- Focus Systems
 
-6-
+6- Time Frameworks
