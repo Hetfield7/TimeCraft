@@ -6,4 +6,4 @@ A short overview of what TimeCraft is, why it exists, and how to use it as a per
 
 2° Core Principles
 
-3-
+3- Daily Optimization
