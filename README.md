@@ -12,6 +12,7 @@ Key ideas that define how TimeCraft approaches time optimization:
 - Balance between focus and rest
 
 3- Daily Optimization
+Practical routines and methods to structure your day efficiently:
 
 4- Digital Efficiency
 
