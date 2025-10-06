@@ -13,7 +13,7 @@ Key ideas that define how TimeCraft approaches time optimization:
 
 3- Daily Optimization
 Practical routines and methods to structure your day efficiently:
--The 3-Task
+-The 3-Task Rule
 
 
 4- Digital Efficiency
