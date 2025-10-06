@@ -20,6 +20,7 @@ Practical routines and methods to structure your day efficiently:
 
 
 4- Digital Efficiency
+Guidelines to reduce friction with digital tools:
 
 5- Focus Systems
 
