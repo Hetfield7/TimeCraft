@@ -8,6 +8,7 @@ A short overview of what TimeCraft is, why it exists, and how to use it as a per
 Key ideas that define how TimeCraft approaches time optimization:
 - Efficiency over speed
 - Deep work over busy work
+- Systems 
 
 3- Daily Optimization
 
