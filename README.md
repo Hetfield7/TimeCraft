@@ -16,7 +16,7 @@ Practical routines and methods to structure your day efficiently:
 - The 3-Task Rule
 - Energy Mapping
 - Micro-planning technique (AM/PM)
-- Review ritual 
+- Review ritual (5-minute daily reflection)
 
 
 4- Digital Efficiency
