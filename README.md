@@ -24,7 +24,7 @@ Guidelines to reduce friction with digital tools:
 - Inbox zero for email & messages
 - Smart browser tab management
 - Automation of repetitive tasks
-- Keyboard 
+- Keyboard shortcuts 
 
 5- Focus Systems
 
