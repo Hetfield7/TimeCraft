@@ -29,8 +29,8 @@ Guidelines to reduce friction with digital tools:
 5- Focus Systems
 Proven systems to stay in flow:
 - Pomodoro (with modern adaptations)
--Time-boxing for meetings and tasks
-
+- Time-boxing for meetings and tasks
+- Distraction 
 
 6- Time Frameworks
 
