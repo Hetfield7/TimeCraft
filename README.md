@@ -27,7 +27,7 @@ Guidelines to reduce friction with digital tools:
 - Keyboard shortcuts & workflows
 
 5- Focus Systems
-Proven systems
+Proven systems to stay in flow:
 
 6- Time Frameworks
 
