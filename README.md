@@ -28,6 +28,7 @@ Guidelines to reduce friction with digital tools:
 
 5- Focus Systems
 Proven systems to stay in flow:
+- Pomodoro 
 
 6- Time Frameworks
 
