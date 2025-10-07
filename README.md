@@ -23,7 +23,7 @@ Practical routines and methods to structure your day efficiently:
 Guidelines to reduce friction with digital tools:
 - Inbox zero for email & messages
 - Smart browser tab management
-- Automation of repetitive 
+- Automation of repetitive tasks
 
 5- Focus Systems
 
