@@ -38,7 +38,7 @@ Lightweight frameworks you can adapt:
 - Eisenhower Matrix 2.0 (modern version)
 - The Priority  Compass
 - The “Not-to-do” List
-- Time 
+- Time Budgeting 
 
 
 7- Workplace Automation
