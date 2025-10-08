@@ -37,7 +37,7 @@ Proven systems to stay in flow:
 Lightweight frameworks you can adapt:
 - Eisenhower Matrix 2.0 (modern version)
 - The Priority  Compass
-- The “Not-
+- The “Not-to-do” List
 
 
 7- Workplace Automation
