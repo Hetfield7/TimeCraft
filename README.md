@@ -35,7 +35,8 @@ Proven systems to stay in flow:
 
 6- Time Frameworks
 Lightweight frameworks you can adapt:
-- Eisenhower 
+- Eisenhower Matrix 2.0 
+
 
 
 7- Workplace Automation
