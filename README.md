@@ -40,8 +40,8 @@ Lightweight frameworks you can adapt:
 - The “Not-to-do” List
 - Time Budgeting for creative work
 
-
 7- Workplace Automation
+Ideas for
 
 8- Recommended Tools
 
