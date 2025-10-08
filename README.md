@@ -31,7 +31,7 @@ Proven systems to stay in flow:
 - Pomodoro (with modern adaptations)
 - Time-boxing for meetings and tasks
 - Distraction  audit checklist.
-- “Deep 
+- “Deep Work 
 
 6- Time Frameworks
 
