@@ -34,7 +34,7 @@ Proven systems to stay in flow:
 - “Deep Work Blocks” framework
 
 6- Time Frameworks
-Lightweight frameworks
+Lightweight frameworks you can adapt:
 
 7- Workplace Automation
 
