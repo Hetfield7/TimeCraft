@@ -41,7 +41,7 @@ Lightweight frameworks you can adapt:
 - Time Budgeting for creative work
 
 7- Workplace Automation
-Ideas for automating repetitive 
+Ideas for automating repetitive processes:
 
 8- Recommended Tools
 
