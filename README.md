@@ -51,7 +51,7 @@ Ideas for automating repetitive processes:
 A curated list of tools to make time management effortless:
 - Notion / Obsidian
 - Todoist / Motion / Sunsama
-
+- Keyboard Maestro / AutoHotkey
 
 9- Mindset & Habits
 
