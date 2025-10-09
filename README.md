@@ -45,7 +45,7 @@ Ideas for automating repetitive processes:
 - Templates & scripts
 - Scheduled reminders
 - Auto-report generation
-- Using AI assistants 
+- Using AI assistants effectively
 
 8- Recommended Tools
 
