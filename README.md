@@ -43,7 +43,7 @@ Lightweight frameworks you can adapt:
 7- Workplace Automation
 Ideas for automating repetitive processes:
 - Templates & scripts
-- Scheduled 
+- Scheduled reminders
 
 
 8- Recommended Tools
