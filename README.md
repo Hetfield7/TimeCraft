@@ -48,6 +48,10 @@ Ideas for automating repetitive processes:
 - Using AI assistants effectively
 
 8- Recommended Tools
+A curated list of tools 
+
+
+
 
 9- Mindset & Habits
 
