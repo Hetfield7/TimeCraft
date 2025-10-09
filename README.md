@@ -44,7 +44,7 @@ Lightweight frameworks you can adapt:
 Ideas for automating repetitive processes:
 - Templates & scripts
 - Scheduled reminders
-- Auto-report 
+- Auto-report generation
 
 
 8- Recommended Tools
