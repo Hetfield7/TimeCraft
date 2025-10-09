@@ -48,7 +48,7 @@ Ideas for automating repetitive processes:
 - Using AI assistants effectively
 
 8- Recommended Tools
-A curated list of tools 
+A curated list of tools to make time management effortless:
 
 
 
