@@ -42,7 +42,7 @@ Lightweight frameworks you can adapt:
 
 7- Workplace Automation
 Ideas for automating repetitive processes:
-- Templates 
+- Templates & scripts
 
 8- Recommended Tools
 
