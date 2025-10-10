@@ -52,7 +52,7 @@ A curated list of tools to make time management effortless:
 - Notion / Obsidian
 - Todoist / Motion / Sunsama
 - Keyboard Maestro / AutoHotkey
-- RescueTime / 
+- RescueTime / Clockify
 
 9- Mindset & Habits
 
