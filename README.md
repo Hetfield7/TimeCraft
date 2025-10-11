@@ -58,6 +58,6 @@ A curated list of tools to make time management effortless:
 Tips for maintaining focus and avoiding burnout:
 - The power of monotasking
 - Rest as part of productivity
-
+- Setting 
 
 10- Credits & Contributions
