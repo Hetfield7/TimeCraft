@@ -57,7 +57,7 @@ A curated list of tools to make time management effortless:
 9- Mindset & Habits
 Tips for maintaining focus and avoiding burnout:
 - The power of monotasking
-- Rest as part of 
+- Rest as part of productivity
 
 
 10- Credits & Contributions
