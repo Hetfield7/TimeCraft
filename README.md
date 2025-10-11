@@ -59,5 +59,5 @@ Tips for maintaining focus and avoiding burnout:
 - The power of monotasking
 - Rest as part of productivity
 - Setting “focus boundaries”
-
+- Weekly 
 10- Credits & Contributions
