@@ -63,4 +63,4 @@ Tips for maintaining focus and avoiding burnout:
 
 
 10- Credits & Contributions
-This project is open for contributions
+This project is open for contributions  — share your 
