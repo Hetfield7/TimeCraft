@@ -59,7 +59,7 @@ Tips for maintaining focus and avoiding burnout:
 - The power of monotasking
 - Rest as part of productivity
 - Setting “focus boundaries”
-- Weekly digital 
+- Weekly digital detox 
 
 
 10- Credits & Contributions
