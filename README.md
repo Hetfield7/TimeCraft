@@ -26,7 +26,7 @@ Guidelines to reduce friction with digital tools:
 - Automation of repetitive tasks
 - Keyboard shortcuts & workflows
 
-5- Focus Systems
+5- Focus Systems in line
 Proven systems to stay in flow:
 - Pomodoro (with modern adaptations)
 - Time-boxing for meetings and tasks
