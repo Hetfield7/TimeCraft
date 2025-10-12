@@ -6,7 +6,7 @@ A short overview of what TimeCraft is, why it exists, and how to use it as a per
 
 2° Core Principles
 Key ideas that define how TimeCraft approaches time optimization:
-- Efficiency over speed
+- Efficiency over speed and agility
 - Deep work over busy work
 - Systems over motivation
 - Balance between focus and rest
