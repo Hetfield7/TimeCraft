@@ -45,7 +45,7 @@ Ideas for automating repetitive processes:
 - Templates & scripts
 - Scheduled reminders
 - Auto-report generation
-- Using AI assistants effectively
+- Using AI assistants effectively on
 
 8- Recommended Tools
 A curated list of tools to make time management effortless:
