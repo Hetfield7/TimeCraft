@@ -4,7 +4,7 @@ Actionable strategies and lightweight frameworks to make every workday more focu
 1- Introduction
 A short overview of what TimeCraft is, why it exists, and how to use it as a personal productivity companion.
 
-2° Core Principles
+2° Core Principles First
 Key ideas that define how TimeCraft approaches time optimization:
 - Efficiency over speed and agility
 - Deep work over busy work
