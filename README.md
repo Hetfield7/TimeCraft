@@ -40,7 +40,7 @@ Lightweight frameworks you can adapt:
 - The “Not-to-do” List
 - Time Budgeting for creative work
 
-7- Workplace Automation
+7- Workplace Automation kit
 Ideas for automating repetitive processes:
 - Templates & scripts
 - Scheduled reminders
