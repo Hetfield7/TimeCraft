@@ -31,7 +31,7 @@ Proven systems to stay in flow:
 - Pomodoro (with modern adaptations)
 - Time-boxing for meetings and tasks
 - Distraction  audit checklist.
-- “Deep Work Blocks” framework
+- “Deep Work Blocks” framework based
 
 6- Time Frameworks
 Lightweight frameworks you can adapt:
