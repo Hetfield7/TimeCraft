@@ -37,13 +37,13 @@ Proven systems to stay in flow:
 Lightweight frameworks you can adapt:
 - Eisenhower Matrix 2.0 (modern version)
 - The Priority  Compass
-- The “Not-to-do” List
+- The “Not-to-do” List 
 - Time Budgeting for creative work
 
 7- Workplace Automation kit
 Ideas for automating repetitive processes:
 - Templates & scripts
-- Scheduled reminders set
+- Scheduled reminders set on
 - Auto-report generation
 - Using AI assistants effectively on 
 
