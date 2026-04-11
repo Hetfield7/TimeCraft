@@ -38,7 +38,7 @@ Lightweight frameworks you can adapt:
 - Eisenhower Matrix 2.0 (modern version)
 - The Priority  Compass
 - The “Not-to-do” List 
-- Time Budgeting for creative work
+- Time Budgeting for creative working
 
 7- Workplace Automation kit
 Ideas for automating repetitive processes:
