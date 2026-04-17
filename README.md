@@ -48,7 +48,7 @@ Ideas for automating repetitive processes:
 - Using AI assistants effectively on 
 
 8- Recommended Tools essential
-A curated list of tools to make time management effortless daily:
+A curated list of tools to make time management effortless:
 - Notion / Obsidian
 - Todoist / Motion / Sunsama
 - Keyboard Maestro / AutoHotkey
