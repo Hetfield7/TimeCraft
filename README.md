@@ -45,7 +45,7 @@ Ideas for automating repetitive processes:
 - Templates & scripts
 - Scheduled reminders set
 - Auto-report generation
-- Using AI assistants effectively on 
+- Using AI assistants effectively
 
 8- Recommended Tools essential
 A curated list of tools to make time management effortless:
@@ -56,7 +56,7 @@ A curated list of tools to make time management effortless:
 
 9- Mindset & Habits daily
 Tips for maintaining focus and avoiding burnout:
-- The power of monotasking in
+- The power of monotasking
 - Rest as part of productivity
 - Setting “focus boundaries”
 - Weekly digital detox practice
