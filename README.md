@@ -43,7 +43,7 @@ Lightweight frameworks you can adapt:
 7- Workplace Automation kit
 Ideas for automating repetitive processes:
 - Templates & scripts
-- Scheduled reminders set
+- Scheduled reminders set on
 - Auto-report generation
 - Using AI assistants effectively
 
