@@ -7,7 +7,7 @@ A short overview of what TimeCraft is, why it exists, and how to use it as a per
 2° Core Principles First
 Key ideas that define how TimeCraft approaches time optimization:
 - Efficiency over speed and agility
-- Deep work over busy work
+- Deep work over busy work on
 - Systems over motivation
 - Balance between focus and rest
 
@@ -47,7 +47,7 @@ Ideas for automating repetitive processes:
 - Auto-report generation
 - Using AI assistants effectively
 
-8- Recommended Tools essential
+8- Recommended Tools essential 
 A curated list of tools to make time management effortless:
 - Notion / Obsidian
 - Todoist / Motion / Sunsama
