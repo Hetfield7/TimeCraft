@@ -22,7 +22,7 @@ Practical routines and methods to structure your day efficiently:
 4- Digital Efficiency
 Guidelines to reduce friction with digital tools:
 - Inbox zero for email & messages
-- Smart browser tab management flow
+- Smart browser tab management
 - Automation of repetitive tasks working
 - Keyboard shortcuts &  workflows construction
 
