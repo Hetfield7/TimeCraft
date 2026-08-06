@@ -13,8 +13,8 @@ Key ideas that define how TimeCraft approaches time optimization:
 
 3- Daily Optimization
 Practical routines and methods to structure your day efficiently:
-- The 3-Task Rule flow
-- Energy Mapping
+- The 3-Task Rule
+- Energy Mapping 
 - Micro-planning technique (AM/PM)
 - Review ritual (5-minute daily reflection)
 
